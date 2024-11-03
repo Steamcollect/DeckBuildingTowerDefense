@@ -1,0 +1,18 @@
+using UnityEngine;
+using Sirenix.OdinInspector;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : ManoBehaviour
+{
+    [Title("Input")]
+
+    [Title("References")]
+    
+    [Title("Parameters")]
+    
+    [Title("Output")]
+
+    //Code here
+
+}
+#ROOTNAMESPACEEND#
